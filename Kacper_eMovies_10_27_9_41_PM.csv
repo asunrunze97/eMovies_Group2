@@ -1,0 +1,9 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742125::Definition,1073742126::Name,1075848986::Value  [read only],1075849083::Default,1075849148::Comments,1075849176::Physical Name,1075850193::Dependent Objects  [read only],1075850212::Constraint Name,1075850516::User Formatted Name  [read only],1075852278::Extended Notes Order  [read only]
+"1075839170::1155","DF_MovieRentalRecord_RentalRate",Default Constraint Usage,"","DF_MovieRentalRecord_RentalRate","0","DF_Template_Zero","","DF_MovieRentalRecord_RentalRate","","","DF_MovieRentalRecord_RentalRate",""
+"1075839170::1159","DF_Employee_HireDate",Default Constraint Usage,"","DF_Employee_HireDate","systimenow()","DF_Template_Today","","DF_Employee_HireDate","","","DF_Employee_HireDate",""
+"1075839170::1160","DF_MovieRentalRecord_RentalDate",Default Constraint Usage,"","DF_MovieRentalRecord_RentalDate","systimenow()","DF_Template_Today","","DF_MovieRentalRecord_RentalDate","","","DF_MovieRentalRecord_RentalDate",""
+"1075839170::1161","DF_Movie_RentalRate",Default Constraint Usage,"","DF_Movie_RentalRate","0","DF_Template_Zero","","DF_Movie_RentalRate","","","DF_Movie_RentalRate",""
+"1075839170::1162","DF_MovieRentalRecord_OverdueCharge",Default Constraint Usage,"","DF_MovieRentalRecord_OverdueCharge","0","DF_Template_Zero","","DF_MovieRentalRecord_OverdueCharge","","","DF_MovieRentalRecord_OverdueCharge",""
+"1075839170::1164","DF_Payment_PaymentStatus",Default Constraint Usage,"","DF_Payment_PaymentStatus","pending","DF_Template_PaymentStatus","","DF_Payment_PaymentStatus","","","DF_Payment_PaymentStatus",""
+"1075839170::1166","DF_Movie_Rating",Default Constraint Usage,"","DF_Movie_Rating","0","DF_Template_Zero","","DF_Movie_Rating","","","DF_Movie_Rating",""
+"1075839170::1168","DF_Employee_Salary",Default Constraint Usage,"","DF_Employee_Salary","0","DF_Template_Zero","","DF_Employee_Salary","","","DF_Employee_Salary",""
